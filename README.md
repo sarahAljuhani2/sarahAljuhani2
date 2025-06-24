@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 
 
-<h1 align="center">Hi 👋, I'm Sarah Aljuhani</h1>
+<h1 align="center">Hi , I'm Sarah Aljuhani</h1>
 <h3 align="center">Junior Data Science and Analytics </h3>
 
 - 📫 How to reach me **sarah.aljuhani2222@gmail.com**
